@@ -34,7 +34,6 @@ Este projeto foi criado como parte do meu portfólio de **Ciência de Dados e Au
 | 🧩 **MIT App Inventor** | Criação do aplicativo Android com interface visual e lógica por blocos |
 | 🧾 **Google Sheets** | Banco de dados online para armazenar os registros |
 | 🌐 **JSON / POST Requests** | Comunicação direta entre o app e o script |
-| 💻 **HTML / CSS / JavaScript (planejado)** | Versão .apk para dispositivos Android |
 
 ---
 
@@ -50,6 +49,7 @@ Este projeto foi criado como parte do meu portfólio de **Ciência de Dados e Au
 ## 🚀 Próximas Etapas
 
 - 📈 Criar dashboards automáticos no Google Data Studio (Looker)
+- 💻 Criar versão web: HTML / CSS / JavaScript
 - 🔐 Adicionar autenticação por usuário (login simples)
 - 📱 Desenvolver versão web responsiva para iOS
 - 📆 Implementar gráficos de evolução semanal diretamente na planilha e para que o usuário possa acompanhar sua evolução
