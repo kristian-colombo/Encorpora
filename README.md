@@ -56,5 +56,3 @@ Este projeto foi criado como parte do meu portfólio de **Ciência de Dados e Au
 
 ---
 
-## 🧩 Estrutura do Projeto
-
